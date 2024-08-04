@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hotertra.github.io/sitemap.html.gz
+Sitemap: https://hotertra.github.io/app/sitemap.html.gz
+Sitemap: https://hotertra.github.io/assets/sitemap.html.gz
+Sitemap: https://hotertra.github.io/css/sitemap.html.gz
+Sitemap: https://hotertra.github.io/includes/sitemap.html.gz
+Sitemap: https://hotertra.github.io/item/sitemap.html.gz
+Sitemap: https://hotertra.github.io/src/sitemap.html.gz
